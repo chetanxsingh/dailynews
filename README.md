@@ -1,28 +1,16 @@
 # dailynews
-# Daily News Assigements
-This App help you to get daily top news Headline and articles
 
-<img src="https://i.postimg.cc/ZRmLF3Xm/Screenshot-2024-03-15-at-4-37-00-PM.png" alt="img2">
-<img src="https://i.postimg.cc/wxQmnMbW/Screenshot-2024-03-15-at-4-38-48-PM.png" alt="img1">
-<img src="https://i.postimg.cc/vThXmz8T/jakjf.png" alt="img3">
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-## Tech Stacks
-- Dart
-- Flutter
-- Firebase
-- API
-  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Features
-- HomePage                         /
-- Signup Page                     /register 
-- Login Pagee                    /login  
-- Daily NEWS Headline             
-- Full articles               
-    
-## Video Link
-<a href="https://youtu.be/E8adLNeVtwc?si=z6_9YTS6E0-ErA7v">Daily NEWS Demo Link</a>
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
