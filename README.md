@@ -24,5 +24,5 @@ This App help you to get daily top news Headline and articles
 - Full articles               
     
 ## Video Link
-<a href="https://youtu.be/2M79YVR3azA">Daily NEWS Demo Link</a>
+<a href="https://youtu.be/E8adLNeVtwc?si=z6_9YTS6E0-ErA7v">Daily NEWS Demo Link</a>
 
