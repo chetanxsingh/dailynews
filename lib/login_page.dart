@@ -38,11 +38,11 @@ signIn()async{
         ),
         ElevatedButton(onPressed: (()=>signIn()), child: Text("Login")),
         SizedBox(height: 20,),
-        ElevatedButton(onPressed: (()=>Get.to(signup())), child: Text("SignUp")),
+        ElevatedButton(onPressed: (() =>Get.to(signup())), child: Text("SignUp")),
         SizedBox(height: 20,),
-        ElevatedButton(onPressed: (()=>Get.to(ForgotPassword())), child:  Text("Forgot password")),
+        ElevatedButton(onPressed: (() =>Get.to(ForgotPassword())), child:  Text("Forgot password")),
 
       ],),
-    ));
+    ),);
   }
 }
